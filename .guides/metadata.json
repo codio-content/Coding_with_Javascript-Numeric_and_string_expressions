@@ -1,0 +1,394 @@
+{
+ "sections": [
+  {
+   "id": "6a17f2f4-3a07-1bd9-5d35-926f5f56a33d",
+   "title": "Introduction to Coding",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-to-Coding-6a17.md",
+   "chapter": true,
+   "reset": [
+    "01-abc"
+   ]
+  },
+  {
+   "id": "83c6e943-b10a-e78-3845-fa1cca92aea",
+   "title": "Preparation video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparation-video-83c6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
+   "title": "Inputs, Outputs & Debug",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-intro/io-debug.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inputs--Outputs---Debug-69dc.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7325c096-e421-4129-7461-999b829e7e26",
+   "title": "Errors",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-intro/error.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Errors-7325.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "53327dfc-212b-2523-902a-784326731880",
+   "title": "Experiments",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Experiments-5332.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "b84eb533-9e-a9be-e3cf-aba4d72478b0",
+   "title": "Semi colons",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Semi-colons-b84e.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "ec706508-da7c-e513-dc45-c2aba413e7b8",
+   "title": "Numeric expressions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2-numeric/abc.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Numeric-expressions-ec70.md",
+   "chapter": true,
+   "reset": [
+    "2-numeric"
+   ]
+  },
+  {
+   "id": "ff36af07-6538-fe37-617a-845c22593ca8",
+   "title": "Code equivalent",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2-numeric/abc.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-equivalent-ff36.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "6ffbde93-f3f8-e1cb-ca58-3feec3ef9c48",
+   "title": "Addition",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "addition.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Addition-6ffb.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "294b83b9-3ada-9e9-84f-2eac1831d7e5",
+   "title": "A*(B + C/3)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "abc2.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A--B---C-3--294b.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "3e8121b2-37ae-8a09-d52f-9a2b3b20522a",
+   "title": "Fixing Errors",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fixing-Errors-3e81.md",
+   "chapter": true,
+   "reset": [
+    "4-fixes"
+   ]
+  },
+  {
+   "id": "3c16f17c-bbcf-8f61-5559-29b0211ba712",
+   "title": "Fix challenge 1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "4-fix/fix1.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-challenge-1-3c16.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "716b22ac-d1c-5392-d857-d65f52561fee",
+   "title": "Fix challenge 2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "4-fix/fix2.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-challenge-2-716b.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f7772526-9e69-d156-a288-400799b9b51b",
+   "title": "String expressions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3-string/string.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/String-expressions-f777.md",
+   "chapter": true,
+   "reset": [
+    "3-string"
+   ]
+  },
+  {
+   "id": "3766bf5f-440f-8d18-4309-6aafc3a3bf63",
+   "title": "Code equivalent",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3-string/string.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-equivalent-3766.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "abccdbf7-3d65-3bea-cb70-1a9b892a20e",
+   "title": " Joining strings",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "join-string.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-Joining-strings-abcc.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "363d20df-28be-7eaf-5467-911c1940816c",
+   "title": "Joining more strings",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "join-string2.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Joining-more-strings-363d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "abe2d821-1377-2298-72ab-10fee0b0b04c",
+   "title": "Strings containing numbers",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "strnum.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Strings-containing-numbers-abe2.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "558b3be-a72d-245d-3bf4-84d97bbcb754",
+   "title": "Escaping",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3-string/escape.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Escaping-558b.md",
+   "chapter": true,
+   "reset": [
+    "3-string"
+   ]
+  },
+  {
+   "id": "e27ec7b9-a5cd-8308-ab0d-31a2ceab9d21",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "escape.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-e27e.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
