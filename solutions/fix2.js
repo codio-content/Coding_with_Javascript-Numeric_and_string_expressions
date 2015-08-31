@@ -7,4 +7,4 @@ input2 = 7
 num = input0 * (input1 + input2/3)
 
 // Outputs
-outputs( num )
+output( num )
