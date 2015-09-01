@@ -4,7 +4,7 @@ input1 = 4
 input2 = 7
 
 // More code
-num = input0 * (input1 + input2/3)
+num = nput0 * (input1 + input2/3)
 
 // Outputs
 outputs( num )

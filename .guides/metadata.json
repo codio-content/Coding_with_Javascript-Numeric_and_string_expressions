@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introduction-to-Coding-6a17.md",
@@ -42,7 +42,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Inputs--Outputs---Debug-69dc.md",
