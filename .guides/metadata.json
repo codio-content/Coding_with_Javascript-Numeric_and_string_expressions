@@ -16,17 +16,19 @@
    "chapter": true,
    "reset": [
     "01-abc"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "83c6e943-b10a-e78-3845-fa1cca92aea",
-   "title": "Preparation video",
+   "title": "1. 1. Preparation video",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Preparation-video-83c6.md",
+   "content-file": ".guides/content/1--1--Preparation-video-83c6.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
@@ -47,7 +49,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Inputs--Outputs---Debug-69dc.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "7325c096-e421-4129-7461-999b829e7e26",
@@ -68,7 +71,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Errors-7325.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "53327dfc-212b-2523-902a-784326731880",
@@ -78,7 +82,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Experiments-5332.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "b84eb533-9e-a9be-e3cf-aba4d72478b0",
@@ -88,7 +93,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Semi-colons-b84e.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "ec706508-da7c-e513-dc45-c2aba413e7b8",
@@ -111,7 +117,8 @@
    "chapter": true,
    "reset": [
     "2-numeric"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "ff36af07-6538-fe37-617a-845c22593ca8",
@@ -132,7 +139,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Code-equivalent-ff36.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "6ffbde93-f3f8-e1cb-ca58-3feec3ef9c48",
@@ -153,7 +161,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Addition-6ffb.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "294b83b9-3ada-9e9-84f-2eac1831d7e5",
@@ -174,7 +183,8 @@
    "type": "markdown",
    "content-file": ".guides/content/A--B---C-3--294b.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "3e8121b2-37ae-8a09-d52f-9a2b3b20522a",
@@ -192,7 +202,8 @@
    "chapter": true,
    "reset": [
     "4-fixes"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "3c16f17c-bbcf-8f61-5559-29b0211ba712",
@@ -213,7 +224,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Fix-challenge-1-3c16.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "716b22ac-d1c-5392-d857-d65f52561fee",
@@ -234,7 +246,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Fix-challenge-2-716b.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "f7772526-9e69-d156-a288-400799b9b51b",
@@ -257,7 +270,8 @@
    "chapter": true,
    "reset": [
     "3-string"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "3766bf5f-440f-8d18-4309-6aafc3a3bf63",
@@ -278,7 +292,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Code-equivalent-3766.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "abccdbf7-3d65-3bea-cb70-1a9b892a20e",
@@ -299,7 +314,8 @@
    "type": "markdown",
    "content-file": ".guides/content/-Joining-strings-abcc.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "363d20df-28be-7eaf-5467-911c1940816c",
@@ -320,7 +336,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Joining-more-strings-363d.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "abe2d821-1377-2298-72ab-10fee0b0b04c",
@@ -341,7 +358,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Strings-containing-numbers-abe2.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "558b3be-a72d-245d-3bf4-84d97bbcb754",
@@ -364,7 +382,8 @@
    "chapter": true,
    "reset": [
     "3-string"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "e27ec7b9-a5cd-8308-ab0d-31a2ceab9d21",
@@ -385,7 +404,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-e27e.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",

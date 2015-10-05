@@ -10,7 +10,7 @@ To run your code, press this button {Run}(node run-user.js addition.js)
 input0 = 3
 
 // More code
-num = input0 + 123
+num = input0 + 12
 
 // Outputs
 output( num )

@@ -11,6 +11,9 @@ var test = {
     var scope = {
       output: function(val) {
         output.push(val);
+      },
+      console: {
+        log: console.log.bind(console)
       }
     }
 
