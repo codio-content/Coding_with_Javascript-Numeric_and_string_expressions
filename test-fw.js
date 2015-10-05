@@ -12,9 +12,7 @@ var test = {
       output: function(val) {
         output.push(val);
       },
-      console: {
-        log: console.log.bind(console)
-      }
+      console: console
     }
 
     for (var i = 0; i < argv.length; i++) {
