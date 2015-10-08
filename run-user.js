@@ -16,9 +16,7 @@ var scope = {
   output: function(val) {
     console.log(val);
   },
-  console: {
-    log: console.log.bind(console)
-  }
+  console: console
 }
 
 try {
