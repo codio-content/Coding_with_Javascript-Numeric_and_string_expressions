@@ -1,4 +1,4 @@
 
-input = 'Mike'
+input = 'Mike
 newString = 'Hello, ' + input0
-outputs( input0)
+output(input0)

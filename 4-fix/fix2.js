@@ -6,5 +6,4 @@ input2 = 7
 // More code
 num = nput0 * (input1 + input2/3)
 
-// Outputs
-outputs( num )
+output(num)
