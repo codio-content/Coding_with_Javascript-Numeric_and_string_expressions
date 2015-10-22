@@ -1,3 +1,3 @@
 
-input0 = 'Mike'
+input0 = process.argv[2]
 

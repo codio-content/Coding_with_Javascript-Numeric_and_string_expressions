@@ -1,5 +1,3 @@
-To run your code, press this button {Run}(node run-user.js addition.js)
-
 ## Challenge 
 {Check It!|assessment}(test-3763781759)
 
@@ -7,12 +5,12 @@ To run your code, press this button {Run}(node run-user.js addition.js)
 ### Solution
 ```javascript
 // Inputs
-input0 = 3
+input0 = process.argv[2]
 
-// More code
+// Add 12 to the input value
 num = input0 + 12
 
 // Outputs
-output( num )
+console.log( num )
 ```
 |||

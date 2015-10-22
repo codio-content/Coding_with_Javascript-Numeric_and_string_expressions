@@ -1,8 +1,8 @@
 
 // Inputs
-input0 = 3
-input1 = 4
-input2 = 5
+input0 = process.argv[2]
+input1 = process.argv[3]
+input2 = process.argv[4]
 
 // More code
 num = input0 * (input1 + input2)
@@ -11,4 +11,4 @@ num = input0 * (input1 + input2)
 console.log('num is ' + num)
 
 // Outputs
-output(num)
+console.log(num)

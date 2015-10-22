@@ -1,4 +1,4 @@
 
-input0 = 'Hello'
-input1 = 'world'
+input0 = process.argv[2]
+input1 = process.argv[3]
 

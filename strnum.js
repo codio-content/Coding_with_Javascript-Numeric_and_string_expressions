@@ -1,4 +1,4 @@
 
-input0 = 123
-input1 = 456
+input0 = process.argv[2]
+input1 = process.argv[3]
 

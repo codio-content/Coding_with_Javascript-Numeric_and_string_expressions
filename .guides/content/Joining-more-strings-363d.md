@@ -1,13 +1,11 @@
-To run your code, press this button {Run}(node run-user.js join-string2.js)
-
 {Check It!|assessment}(test-1902380530)
 
 |||guidance
 ### Solution
 ```javascript
-input0 = 'Hello'
-input1 = 'world'
+input0 = process.argv[2]
+input1 = process.argv[3]
 str = input0 + ' ' + input1
-output (str)
+console.log (str)
 ```
 |||

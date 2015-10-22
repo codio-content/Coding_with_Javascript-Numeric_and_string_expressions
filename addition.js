@@ -1,4 +1,3 @@
 // Inputs
-input0 = 3
-
+input0 = process.argv[2]
 

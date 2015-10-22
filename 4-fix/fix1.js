@@ -1,4 +1,4 @@
 
 input = 'Mike
 newString = 'Hello, ' + input0
-output(input0)
+console.log(input0)

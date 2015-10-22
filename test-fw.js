@@ -12,35 +12,45 @@ var test = {
       output: function(val) {
         output.push(val);
       },
+      process: {
+        argv: ['javascript', file].concat(argv)
+      },
       console: console
     }
 
-    for (var i = 0; i < argv.length; i++) {
-      input.push({ i: 0, val: argv[i]});
-      
-      (function(n) {
-        Object.defineProperty(scope, 'input' + n, {
-          get: function() {
-            return input[n].val
-          },
-          set: function(val) {
-            if(input[n].i++ > 0) {
-              input[n].val = val
-            }
-          }
-        });
-      })(i);
-
+    // 
+    // We will replace the console.log function with one which stores the
+    // console output so we can check the test. We hold a pointer to the 
+    // original "normal" console.log function so we can put it back after
+    // running the student code, without effecting any code that comes after.
+    //
+    var normalConsoleLogFunction= console.log;
+    scope.console.log= function(val){
+      output.push(val);
     }
 
+
+    //
+    // Execute the code the student has provided.
+    //
     try {
       vm.runInNewContext(data, scope)
+
+      // 
+      // Put back the console.log function to the original
+      //
+      console.log= normalConsoleLogFunction;
 
       if(typeof cb == 'function') {
         cb(output, null);
       }
     }
     catch(e) {
+      // 
+      // Put back the console.log function to the original
+      //
+      console.log= normalConsoleLogFunction;
+
       if(typeof cb == 'function') {
         var msg = '';
 

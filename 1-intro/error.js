@@ -1,15 +1,14 @@
-
-// Inputs
-input0 = 3
-input1 = 4
-input2 = 5
+// Get input from the command line
+input0 = process.argv[2]
+input1 = process.argv[3]
+input2 = process.argv[4]
 
 // There's an error on this line
 num = input0 + notDefinedVariable
 
-// A debug statement
-console.log('This is a debug expressions, with num=' + num)
+// Some output
+console.log('input0 = ' + input0)
+console.log('input1 = ' + input1)
+console.log('input2 = ' + input2)
+console.log('num = ' + num)
 
-// Outputs
-output( num )
-output( 'This is the second output expression, with num=' + num)

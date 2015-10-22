@@ -1,5 +1,4 @@
 // Inputs
-input0 = 3
-input1 = 4
-input2 = 7
-
+input0 = process.argv[2]
+input1 = process.argv[3]
+input2 = process.argv[4]
