@@ -1,5 +1,5 @@
 // Include general test framework
-var test = require('../test-fw.js');
+var test = require('../../tests/test-fw.js');
 var exp = []
 var out = []
 
@@ -15,7 +15,7 @@ var i1 = str2[index2]
 exp[0] = i0 + ' ' + i1
 
 // Run user code
-test.test('/home/codio/workspace/4-fix/fix1.js', [i0, i1], function(out, err) {
+test.test('/home/codio/workspace/content/4-fix/fix1.js', [i0, i1], function(out, err) {
 
   if(err) {
     console.log(err)
