@@ -1,4 +1,4 @@
-To run your code, press this button {Run}(node run-user.js abc2.js)
+To run your code, press this button {Run}(node run-user.js challenges/abc2.js)
 
 ## Challenge
 {Check It!|assessment}(test-2100988232)

@@ -151,7 +151,7 @@
      "action": "close"
     },
     {
-     "path": "addition.js",
+     "path": "challenges/addition.js",
      "panel": 0,
      "action": "open"
     }
@@ -173,7 +173,7 @@
      "action": "close"
     },
     {
-     "path": "abc2.js",
+     "path": "challenges/abc2.js",
      "panel": 0,
      "action": "open"
     }
@@ -394,7 +394,7 @@
      "action": "close"
     },
     {
-     "path": "escape.js",
+     "path": "challenge/escape.js",
      "panel": 0,
      "action": "open"
     }

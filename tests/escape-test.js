@@ -14,7 +14,7 @@ i1 = str[index2]
 exp[0] = i0 + '\'s done\nand ' + i1 + '\'s done'
 
 // Run user code
-test.test('./escape.js', [i0, i1], function(out, err) {
+test.test('./challenge/escape.js', [i0, i1], function(out, err) {
 
   if(err) {
     console.log(err)
