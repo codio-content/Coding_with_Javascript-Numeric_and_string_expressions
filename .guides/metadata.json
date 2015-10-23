@@ -21,18 +21,18 @@
   },
   {
    "id": "83c6e943-b10a-e78-3845-fa1cca92aea",
-   "title": "1. 1. Preparation video",
+   "title": "Preparation video",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1--1--Preparation-video-83c6.md",
+   "content-file": ".guides/content/Preparation-video-83c6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
-   "title": "Inputs, Outputs & Debug",
+   "title": "Inputs and Outputs",
    "files": [
     {
      "path": "#tabs",
@@ -47,7 +47,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Inputs--Outputs---Debug-69dc.md",
+   "content-file": ".guides/content/Inputs-and-Outputs-69dc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -77,7 +77,14 @@
   {
    "id": "53327dfc-212b-2523-902a-784326731880",
    "title": "Experiments",
-   "files": [],
+   "files": [
+    {
+     "path": "content/experiment.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Experiments-5332.md",
@@ -195,7 +202,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Fixing-Errors-3e81.md",
@@ -219,7 +226,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Fix-challenge-1-3c16.md",
@@ -304,7 +311,7 @@
      "action": "close"
     },
     {
-     "path": "join-string.js",
+     "path": "challenges/join-string.js",
      "panel": 0,
      "action": "open"
     }
@@ -326,7 +333,7 @@
      "action": "close"
     },
     {
-     "path": "join-string2.js",
+     "path": "challenges/join-string2.js",
      "panel": 0,
      "action": "open"
     }
@@ -348,7 +355,7 @@
      "action": "close"
     },
     {
-     "path": "strnum.js",
+     "path": "challenges/strnum.js",
      "panel": 0,
      "action": "open"
     }
@@ -394,7 +401,7 @@
      "action": "close"
     },
     {
-     "path": "challenge/escape.js",
+     "path": "challenges/escape.js",
      "panel": 0,
      "action": "open"
     }
