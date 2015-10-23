@@ -1,4 +1,4 @@
-For the challenge below, try various things out and press the Run button to see if they work. With any luck (and some proper thought) you'll get to the solution!
+For the challenge below, try various things out and press the "Check It!" button to see if they work. With any luck (and some proper thought) you'll get to the solution!
 
 {Check It!|assessment}(test-2281574249)
 
