@@ -1,5 +1,5 @@
 // Include general test framework
-var test = require('../test-fw.js');
+var test = require('../../tests/test-fw.js');
 var exp = []
 var out = []
 
@@ -12,7 +12,7 @@ i2 = Math.floor( Math.random() * 10) + 1
 exp[0] = Math.round((i0 * (i1 + i2/3)) * 1000) / 1000
 
 // Run user code
-test.test('/home/codio/workspace/4-fix/fix2.js', [i0, i1, i2], function(out, err) {
+test.test('/home/codio/workspace/content/4-fix/fix2.js', [i0, i1, i2], function(out, err) {
 
   if(err) {
     console.log(err)
