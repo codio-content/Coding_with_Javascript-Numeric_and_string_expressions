@@ -105,7 +105,7 @@
      "action": "close"
     },
     {
-     "path": "2-numeric/abc.flode",
+     "path": "content/2-numeric/abc.flode",
      "panel": 0,
      "action": "open"
     }
@@ -116,7 +116,7 @@
    "content-file": ".guides/content/Numeric-expressions-ec70.md",
    "chapter": true,
    "reset": [
-    "2-numeric"
+    "content/2-numeric"
    ],
    "teacherOnly": false
   },
@@ -129,7 +129,7 @@
      "action": "close"
     },
     {
-     "path": "2-numeric/abc.js",
+     "path": "content/2-numeric/abc.js",
      "panel": 0,
      "action": "open"
     }
@@ -214,7 +214,7 @@
      "action": "close"
     },
     {
-     "path": "4-fix/fix1.js",
+     "path": "content/4-fix/fix1.js",
      "panel": 0,
      "action": "open"
     }
@@ -236,7 +236,7 @@
      "action": "close"
     },
     {
-     "path": "4-fix/fix2.js",
+     "path": "content/4-fix/fix2.js",
      "panel": 0,
      "action": "open"
     }
@@ -258,7 +258,7 @@
      "action": "close"
     },
     {
-     "path": "3-string/string.flode",
+     "path": "content/3-string/string.flode",
      "panel": 0,
      "action": "open"
     }
@@ -269,7 +269,7 @@
    "content-file": ".guides/content/String-expressions-f777.md",
    "chapter": true,
    "reset": [
-    "3-string"
+    "content/3-string"
    ],
    "teacherOnly": false
   },
@@ -282,7 +282,7 @@
      "action": "close"
     },
     {
-     "path": "3-string/string.js",
+     "path": "content/3-string/string.js",
      "panel": 0,
      "action": "open"
     }
@@ -370,7 +370,7 @@
      "action": "close"
     },
     {
-     "path": "3-string/escape.js",
+     "path": "content/3-string/escape.js",
      "panel": 0,
      "action": "open"
     }
@@ -381,7 +381,7 @@
    "content-file": ".guides/content/Escaping-558b.md",
    "chapter": true,
    "reset": [
-    "3-string"
+    "content/3-string"
    ],
    "teacherOnly": false
   },

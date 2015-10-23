@@ -1,6 +1,6 @@
 Now comes a few words on how to deal with strange characters that you want to insert into your strings.
 
-Press this button to run the code on the left {Run}(node run-user.js 3-string/escape.js)
+Press this button to run the code on the left {Run}(node run-user.js content/3-string/escape.js)
 
 ## The ' character
 For example, let's consider the following string
