@@ -11,7 +11,7 @@ var index = Math.floor(Math.random() * 6 )
 exp[0] = str[index] + ', hello!'
 
 // Run user code
-test.test('./join-string.js', [ str[index] ], function(out, err) {
+test.test('./challenges/join-string.js', [ str[index] ], function(out, err) {
 
   if(err) {
     console.log(err)

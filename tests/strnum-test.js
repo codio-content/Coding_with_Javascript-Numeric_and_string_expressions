@@ -12,7 +12,7 @@ i1 = Math.floor( Math.random() * 100) + 1
 exp[0] = '' + i0 + i1
 
 // Run user code
-test.test('./strnum.js', [i0, i1], function(out, err) {
+test.test('./challenges/strnum.js', [i0, i1], function(out, err) {
 
   if(err) {
     console.log(err)
