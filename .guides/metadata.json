@@ -39,7 +39,7 @@
      "action": "close"
     },
     {
-     "path": "1-intro/io-debug.js",
+     "path": "content/1-intro/io-debug.js",
      "panel": 0,
      "action": "open"
     }
@@ -61,7 +61,7 @@
      "action": "close"
     },
     {
-     "path": "1-intro/error.js",
+     "path": "content/1-intro/error.js",
      "panel": 0,
      "action": "open"
     }
