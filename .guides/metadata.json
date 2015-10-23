@@ -304,7 +304,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/join-string.js",
+     "path": "join-string.js",
      "panel": 0,
      "action": "open"
     }
@@ -326,7 +326,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/join-string2.js",
+     "path": "join-string2.js",
      "panel": 0,
      "action": "open"
     }
@@ -348,7 +348,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/strnum.js",
+     "path": "strnum.js",
      "panel": 0,
      "action": "open"
     }
