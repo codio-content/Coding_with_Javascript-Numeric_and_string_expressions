@@ -15,7 +15,7 @@ var i1 = str2[index2]
 exp[0] = i0 + ' ' + i1
 
 // Run user code
-test.test('./challenge/join-string2.js', [i0, i1], function(out, err) {
+test.test('./challenges/join-string2.js', [i0, i1], function(out, err) {
 
   if(err) {
     console.log(err)
