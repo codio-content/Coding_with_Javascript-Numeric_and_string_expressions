@@ -1,14 +1,14 @@
 
 // Get input from the command line
-input0 = process.argv[2]
-input1 = process.argv[3]
-input2 = process.argv[4]
+var digit1 = process.argv[2]
+var digit2 = process.argv[3]
+var digit3 = process.argv[4]
 
 // There's an error on this line
-num = input0 + notDefinedVariable
+var num = digit1 + notDefinedVariable
 
 // Output
-console.log('input0 = ' + input0)
-console.log('input1 = ' + input1)
-console.log('input2 = ' + input2)
+console.log('digit1 = ' + digit1)
+console.log('digit2 = ' + digit2)
+console.log('digit3 = ' + digit3)
 console.log('num = ' + num)

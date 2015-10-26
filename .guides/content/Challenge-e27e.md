@@ -3,10 +3,15 @@
 |||guidance
 ### Solution
 ```javascript
-input0 = process.argv[2]
-input1 = process.argv[3]
 
-str = input0 + '\'s done\nand ' + input1 + '\'s done'
-console.log(str)
+// Get input from the command line
+var string1 = process.argv[2]
+var string2 = process.argv[3]
+
+// Create the result string
+var result = string1 + '\'s done\nand ' + string2 + '\'s done'
+
+// Output
+console.log(result)
 ```
 |||

@@ -3,8 +3,8 @@
 |||guidance
 ### Solution
 ```javascript
-input0 = process.argv[2]
-str = input0 + ', hello!'
+var input0 = process.argv[2]
+var str = input0 + ', hello!'
 console.log (str)
 ```
 |||

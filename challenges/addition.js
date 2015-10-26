@@ -1,5 +1,5 @@
 
 // Get input from the command line
-input0 = process.argv[2]
+var input = process.argv[2]
 
-// Your code goes here.
+// Your code goes here

@@ -1,11 +1,11 @@
 
 // Get input from the command line
-input0 = process.argv[2]
-input1 = process.argv[3]
-input2 = process.argv[4]
+var input0 = process.argv[2]
+var input1 = process.argv[3]
+var input2 = process.argv[4]
 
 // More code
-num = input0 * (input1 + input2)
+var num = input0 * (input1 + input2)
 
 // A debug statement
 console.log('num is ' + num)

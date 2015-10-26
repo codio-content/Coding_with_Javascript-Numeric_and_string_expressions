@@ -3,9 +3,14 @@
 |||guidance
 ### Solution
 ```javascript
-input0 = process.argv[2]
-input1 = process.argv[3]
-str = input0 + ' ' + input1
-console.log (str)
+// Get input from the command line
+var string1 = process.argv[2]
+var string2 = process.argv[3]
+
+// Create the result we are looking for
+var result = string1 + ' ' + string2
+
+// Output
+console.log (result)
 ```
 |||

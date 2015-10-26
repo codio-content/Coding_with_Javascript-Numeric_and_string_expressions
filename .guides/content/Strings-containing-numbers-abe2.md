@@ -5,10 +5,13 @@ For the challenge below, try various things out and press the "Check It!" button
 |||guidance
 ### Solution
 ```javascript
-input0 = process.argv[2]
-input1 = process.argv[3]
+var number1 = process.argv[2]
+var number2 = process.argv[3]
 
-str = '' + input0 + input1
+// Put the text together as strings, not numbers
+var str = '' + number1 + number2
+
+// Output
 console.log (str)
 ```
 |||

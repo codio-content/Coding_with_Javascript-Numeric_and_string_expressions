@@ -4,11 +4,12 @@
 |||guidance
 ### Solution
 ```javascript
-// Inputs
-input0 = process.argv[2]
+
+// Get input from the command line
+var input = process.argv[2]
 
 // Add 12 to the input value
-num = input0 + 12
+var num = input + 12
 
 // Outputs
 console.log( num )
