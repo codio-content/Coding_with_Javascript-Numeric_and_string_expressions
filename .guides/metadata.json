@@ -194,69 +194,6 @@
    "teacherOnly": false
   },
   {
-   "id": "3e8121b2-37ae-8a09-d52f-9a2b3b20522a",
-   "title": "Fixing Errors",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Fixing-Errors-3e81.md",
-   "chapter": true,
-   "reset": [
-    "4-fixes"
-   ],
-   "teacherOnly": false
-  },
-  {
-   "id": "3c16f17c-bbcf-8f61-5559-29b0211ba712",
-   "title": "Fix challenge 1",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "content/4-fix/fix1.js",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Fix-challenge-1-3c16.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "716b22ac-d1c-5392-d857-d65f52561fee",
-   "title": "Fix challenge 2",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "content/4-fix/fix2.js",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Fix-challenge-2-716b.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "f7772526-9e69-d156-a288-400799b9b51b",
    "title": "String expressions",
    "files": [
@@ -364,6 +301,69 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Strings-containing-numbers-abe2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3e8121b2-37ae-8a09-d52f-9a2b3b20522a",
+   "title": "Fixing Errors",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fixing-Errors-3e81.md",
+   "chapter": true,
+   "reset": [
+    "4-fixes"
+   ],
+   "teacherOnly": false
+  },
+  {
+   "id": "3c16f17c-bbcf-8f61-5559-29b0211ba712",
+   "title": "Fix challenge 1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "content/4-fix/fix1.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-challenge-1-3c16.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "716b22ac-d1c-5392-d857-d65f52561fee",
+   "title": "Fix challenge 2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "content/4-fix/fix2.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-challenge-2-716b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
