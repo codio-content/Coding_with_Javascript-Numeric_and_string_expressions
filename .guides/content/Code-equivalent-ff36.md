@@ -1,4 +1,4 @@
-We have now written the same logic as Javascript code on the left.
+We have now written the same logic as JavaScript code on the left.
 
 {Run the code}(node run-user.js content/2-numeric/abc.js 3 4 5 )
 

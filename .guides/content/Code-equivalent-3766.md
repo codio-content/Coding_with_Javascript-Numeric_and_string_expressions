@@ -1,4 +1,4 @@
-On the left you can see the equivalent code for the chart. We've added in some debug statements so you see the output.
+On the left you can see the equivalent code for the chart. 
 
 As you can see, it's almost exactly the same. 
 

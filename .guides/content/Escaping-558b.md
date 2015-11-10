@@ -1,4 +1,4 @@
-Now comes a few words on how to deal with strange characters that you want to insert into your strings.
+Sometimes we need to use special characters in our strings which JavaScript normally recognizes as code. To do this we "escape" the characters which tells JavaScript to not interpret them as code.
 
 Press this button to run the code on the left {Run}(node run-user.js content/3-string/escape.js)
 

@@ -4,8 +4,11 @@
 ### Solution
 ```javascript
 var input0 = process.argv[2]
-var str = input0 + ', hello!'
-console.log (str)
+
+// Your code goes here.
+
+var newString = 'Hello, ' + input0
+console.log(input0)
 ```
 |||
 
