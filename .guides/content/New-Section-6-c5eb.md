@@ -1,4 +1,4 @@
-In Javascript, conditions require some care when starting out. This chapter looks at how the `if` statement works in Javascript.
+In JavaScript, conditions require some care when starting out. This chapter looks at how the `if` statement works in JavaScript.
 
 Let's analyse how our `if` statement works.
 

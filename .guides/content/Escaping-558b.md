@@ -15,9 +15,9 @@ We cannot code this as
 str = 'This is Shahneila's PC'
 ```
 
-as Javascript thinks that the `'` in `Shahneila's` is the end of the string.
+as JavaScript thinks that the `'` in `Shahneila's` is the end of the string.
 
-Instead we have to *escape* the character. This lets Javascript know what we really intend.
+Instead we have to *escape* the character. This lets JavaScript know what we really intend.
 
 ```javascript
 str = 'This is Shahneila\'s PC'
