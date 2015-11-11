@@ -23,12 +23,14 @@ Instead we have to *escape* the character. This lets JavaScript know what we rea
 str = 'This is Shahneila\'s PC'
 ```
 
-You can see how we put the `\` character before the `'`. This is know as *escaping* the character.
+You can see how we put the `\` character before the `'`. This is known as *escaping* the character.
 
 ## Inserting a new line
-Another useful scenario for escaping is when you want to insert and new line into your text (also know as a *carriage return* from the days of typewriters).
+Another useful scenario for escaping is when you want to insert a new line into your text.
 
 Look at the code on the left and you can see we use the `\n` escape to achieve this.
+
+(The `\n` for *newline* or *line feed* and `\r` for *carriage return* are from the days of electric typewriters. A *carriage return* slides the assembly back to the start of the line and *line feed* moves down one line.)
 
 ## Useful escapes
 The following list shows you some typical uses of escaped characters. 

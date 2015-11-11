@@ -1,7 +1,7 @@
 
-var input0 = process.argv[2]
+var name = process.argv[2]
 
 // Your code goes here.
 
-var newString = 'Hello, ' input0
-console.log(input0)
+var newString = 'Hello, ' name
+console.log(name)

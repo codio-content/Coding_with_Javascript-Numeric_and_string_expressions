@@ -5,7 +5,7 @@ var digit2 = process.argv[3]
 var digit3 = process.argv[4]
 
 // There's an error on this line
-var num = digit1 + notDefinedVariable
+var num = digit1 + digit4
 
 // Output
 console.log('digit1 = ' + digit1)
