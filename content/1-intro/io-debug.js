@@ -4,7 +4,8 @@ var digit1 = process.argv[2]
 var digit2 = process.argv[3]
 var digit3 = process.argv[4]
 
-// The variables are now assigned values passed into the program.
+// The variables digit1, digit2, and digit3 are now assigned 
+// values passed into the program.
 
 // Do some math
 var num = digit1 * (digit2 + digit3)

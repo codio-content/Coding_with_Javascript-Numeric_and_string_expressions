@@ -8,7 +8,7 @@ var input2 = process.argv[4]
 var num = input0 * (input1 + input2)
 
 // A debug statement
-console.log('num is ' + num)
+console.info('num is ' + num)
 
 // Output
 console.log(num)

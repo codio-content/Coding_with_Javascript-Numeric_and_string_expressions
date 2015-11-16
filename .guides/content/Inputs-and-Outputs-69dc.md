@@ -1,6 +1,6 @@
 The way you handle inputs and outputs is very similar to Flode.
 
-{Run the code on the left}(node run-user.js content/1-intro/io-debug.js 6 7 8)
+{Run the code on the left}(node content/1-intro/io-debug.js 6 7 8)
 
 ## Inputs
 You will get input for your code from the command line. JavaScript makes this easy by providing access to the command line arguments like this:

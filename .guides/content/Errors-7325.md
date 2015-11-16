@@ -4,7 +4,7 @@ Take a look at the code on the left. This shows a simple syntax error.
 
 Now press the button below to run the code and see the error.
 
-{Run the code}(node run-user.js content/1-intro/error.js)
+{Run the code}(node content/1-intro/error.js 3 4 5)
 
 Once you have run the code, you will see the error appear.
 

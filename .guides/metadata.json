@@ -333,7 +333,7 @@
      "action": "close"
     },
     {
-     "path": "content/4-fix/fix1.js",
+     "path": "challenges/fix1.js",
      "panel": 0,
      "action": "open"
     }
@@ -355,7 +355,7 @@
      "action": "close"
     },
     {
-     "path": "content/4-fix/fix2.js",
+     "path": "challenges/fix2.js",
      "panel": 0,
      "action": "open"
     }
@@ -420,7 +420,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Summary-a16e.md",
+   "content-file": ".guides/content/All-Done--a16e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
