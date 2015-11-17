@@ -5,6 +5,5 @@ var B = process.argv[3]
 var C = process.argv[4]
 
 // Your code goes here
-
 var num = a * (b + c/3)
 console.log(num)

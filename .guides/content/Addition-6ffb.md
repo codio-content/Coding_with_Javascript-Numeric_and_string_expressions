@@ -6,7 +6,7 @@
 ```javascript
 
 // Get input from the command line
-var input = process.argv[2]
+var input = +process.argv[2]
 
 // Add 12 to the input value
 var num = input + 12
