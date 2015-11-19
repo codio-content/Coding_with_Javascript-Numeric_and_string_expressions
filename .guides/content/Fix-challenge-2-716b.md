@@ -4,9 +4,9 @@
 ### Solution
 ```javascript
 // Get input from the command line
-var A = process.argv[2]
-var B = process.argv[3]
-var C = process.argv[4]
+var A = +process.argv[2]
+var B = +process.argv[3]
+var C = +process.argv[4]
 
 // Your code goes here
 
