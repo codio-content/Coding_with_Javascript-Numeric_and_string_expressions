@@ -20,17 +20,6 @@
    "teacherOnly": false
   },
   {
-   "id": "83c6e943-b10a-e78-3845-fa1cca92aea",
-   "title": "Preparation video",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Preparation-video-83c6.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
    "title": "Inputs and Outputs",
    "files": [
