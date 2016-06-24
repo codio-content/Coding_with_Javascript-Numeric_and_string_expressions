@@ -1,6 +1,6 @@
-The code on the left is there for you to play with. Feel free to come back to this page and change it in any way you like at any time.
+This window is provided for you to try out any code you develop. Use it to experiment and practise.
 
-You can run this code by pressing the button below.
+There is some starter code provided for you. This code will be explained on the following pages.
 
 {Run the code}(node content/experiment.js 3 4 5)
 

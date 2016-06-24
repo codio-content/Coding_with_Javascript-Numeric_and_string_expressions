@@ -1,5 +1,5 @@
-Let's start off by showing a Flode chart with a numeric expression.
+Let's start off by looking at a Flode chart that demonstrates a numeric expression.
 
-This simply evaluates the expressions $ A * (B + C) $
+If you step through the chart you will see that it evaluates the expressions $ A * (B + C) $
 
-On the next page we'll show the exact same code in JavaScript.
+On the next page you will see exactly the same code written in JavaScript.

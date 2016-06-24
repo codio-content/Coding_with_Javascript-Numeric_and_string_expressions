@@ -12,7 +12,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Introduction-to-Coding-6a17.md",
+   "content-file": ".guides/content/Introduction-to-coding-6a17.md",
    "chapter": true,
    "reset": [
     "01-abc"
@@ -21,7 +21,7 @@
   },
   {
    "id": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
-   "title": "Inputs and Outputs",
+   "title": "Inputs and outputs",
    "files": [
     {
      "path": "#tabs",
@@ -36,7 +36,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Inputs-and-Outputs-69dc.md",
+   "content-file": ".guides/content/Inputs-and-outputs-69dc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -83,11 +83,11 @@
   },
   {
    "id": "b84eb533-9e-a9be-e3cf-aba4d72478b0",
-   "title": "Semi colons",
+   "title": "Semicolons",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Semi-colons-b84e.md",
+   "content-file": ".guides/content/Semicolons-b84e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -296,7 +296,7 @@
   },
   {
    "id": "3e8121b2-37ae-8a09-d52f-9a2b3b20522a",
-   "title": "Fixing Errors",
+   "title": "Fixing errors",
    "files": [
     {
      "path": "#tabs",
@@ -306,7 +306,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Fixing-Errors-3e81.md",
+   "content-file": ".guides/content/Fixing-errors-3e81.md",
    "chapter": true,
    "reset": [
     "4-fixes"
@@ -405,7 +405,7 @@
   },
   {
    "id": "a16e9cec-21d1-d8fa-a0b9-e12fc8691111",
-   "title": "All Done!",
+   "title": "All done!",
    "files": [
     {
      "path": "#tabs",
@@ -415,7 +415,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/All-Done--a16e.md",
+   "content-file": ".guides/content/All-done--a16e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

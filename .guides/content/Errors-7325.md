@@ -1,20 +1,22 @@
-You will often make mistakes when writing code. You will soon get used to these, but here is how to interpret them.
+You will often make mistakes when writing code. You will soon get used to this, what is important is developing the skill of learning how to understand the errors and then fix them (debugging).
 
-Take a look at the code on the left. This shows a simple syntax error. 
+Look at the code on the left. This code contains a simple syntax error. 
 
-Now press the button below to run the code and see the error.
+Now press the button below to run the code.
 
 {Run the code}(node content/1-intro/error.js 3 4 5)
 
-Once you have run the code, you will see the error appear.
+When you run the code, you will see an error appear.
 
-## Interpreting the error
-The error looks pretty unfriendly but the important information is really what comes first.
+## Understanding the error
+The error looks quite unfriendly. However, if you read the error carefully and look back through your code, you should be able to work out what to do to fix it. Have a look at the explanation below.
 
+This is the error message:
 ```
 ReferenceError: digit4 is not defined
 ```
-
-- `ReferenceError: digit4 is not defined` is the error message. You can see it is telling us that that the variable `digit4` is not yet defined.
+Let's break it down:
+- `ReferenceError:` This is simply telling us that there is an error.
+- `digit4 is not defined` This is telling us that that the variable `digit4` is not defined anywhere in our code although we have tried to use it.
 
 The information that comes below these initial lines is really for more advanced debugging situations and can be safely ignored for now.

@@ -1,4 +1,7 @@
-Let's go back and remind ourselves of how Flode handles strings. On the next page, we'll deal with the way that you handle the same in code.
+Look at the Flode chart on the left. If you step through it, you will see how Flode handles strings. On the next page, you will learn how to do the same thing using code.
 
-Step through the Flode chart and watch the variables after each operation to see the results. 
+When you step through the Flode chart, you can see what happens to the variables after each operation.
+
+
+
 

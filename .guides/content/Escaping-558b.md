@@ -1,23 +1,23 @@
-Sometimes we need to use special characters in our strings which JavaScript normally recognizes as code. To do this we "escape" the characters which tells JavaScript to not interpret them as code.
+Sometimes you will need to use special characters in your strings which JavaScript would normally recognise as code. To do this we "escape" the characters which tells JavaScript to not interpret them as code, but as a string element instead.
 
 Press this button to run the code on the left {Run}(node content/3-string/escape.js)
 
-## The ' character
-For example, let's consider the following string
+## The `'` character
+Look at the following string:
 
 ```javascript
 This is Shahneila's PC
 ```
 
-We cannot code this as 
+We are not able to code this as: 
 
 ```javascript
 str = 'This is Shahneila's PC'
 ```
 
-as JavaScript thinks that the `'` in `Shahneila's` is the end of the string.
+because JavaScript thinks that the `'` in `Shahneila's` is the end of the string.
 
-Instead we have to *escape* the character. This lets JavaScript know what we really intend.
+The solution is to *escape* the character. This lets JavaScript know that we want to use the `'` as part of the string.
 
 ```javascript
 str = 'This is Shahneila\'s PC'
@@ -26,9 +26,9 @@ str = 'This is Shahneila\'s PC'
 You can see how we put the `\` character before the `'`. This is known as *escaping* the character.
 
 ## Inserting a new line
-Another useful scenario for escaping is when you want to insert a new line into your text.
+Another time you might find escaping useful is when you want to insert a new line into your text.
 
-Look at the code on the left and you can see we use the `\n` escape to achieve this.
+Look at the code on the left and you can see that `\n` escape is used to insert a new line.
 
 (The `\n` for *newline* or *line feed* and `\r` for *carriage return* are from the days of electric typewriters. A *carriage return* slides the assembly back to the start of the line and *line feed* moves down one line.)
 

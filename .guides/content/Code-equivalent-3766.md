@@ -1,4 +1,4 @@
-On the left you can see the equivalent code for the chart. 
+On the left you can see the Flode chart is now represented using the code equivalent. 
 
 As you can see, it's almost exactly the same. 
 
