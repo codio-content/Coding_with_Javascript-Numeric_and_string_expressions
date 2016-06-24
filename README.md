@@ -1,6 +1,4 @@
-**Create and run your own Javascript files**
-
-This Unit is not a teaching Unit. It's main purpose is to allow students to add and run their own Javascript code files.
+**From Flode to code with expressions**
 
 - The public GitHub repository for this unit can be found at [https://github.com/codio-content/Coding_with_Javascript-Numeric_and_string_expressions](https://github.com/codio-content/Coding_with_Javascript-Numeric_and_string_expressions).
 
