@@ -1,1 +1,0 @@
-Here come a couple of challenges.

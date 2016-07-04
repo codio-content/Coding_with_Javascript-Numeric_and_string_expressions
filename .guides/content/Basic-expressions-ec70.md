@@ -1,1 +1,0 @@
-Let's start off by showing a Flode chart of one of our  expressions. 
