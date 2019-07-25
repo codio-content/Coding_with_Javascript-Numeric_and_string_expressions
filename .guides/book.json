@@ -1,0 +1,135 @@
+{
+ "name": "Coding_with_Javascript-Numeric_and_string_expressions",
+ "children": [
+  {
+   "title": "Introduction to coding",
+   "id": "6a17f2f4-3a07-1bd9-5d35-926f5f56a33d",
+   "pageId": "6a17f2f4-3a07-1bd9-5d35-926f5f56a33d",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Inputs and outputs",
+     "id": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
+     "pageId": "69dccb51-9fed-bdc5-94a5-311ba47f7614",
+     "type": "page"
+    },
+    {
+     "title": "Errors",
+     "id": "7325c096-e421-4129-7461-999b829e7e26",
+     "pageId": "7325c096-e421-4129-7461-999b829e7e26",
+     "type": "page"
+    },
+    {
+     "title": "Experiments",
+     "id": "53327dfc-212b-2523-902a-784326731880",
+     "pageId": "53327dfc-212b-2523-902a-784326731880",
+     "type": "page"
+    },
+    {
+     "title": "Semicolons",
+     "id": "b84eb533-9e-a9be-e3cf-aba4d72478b0",
+     "pageId": "b84eb533-9e-a9be-e3cf-aba4d72478b0",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Numeric expressions",
+   "id": "ec706508-da7c-e513-dc45-c2aba413e7b8",
+   "pageId": "ec706508-da7c-e513-dc45-c2aba413e7b8",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Code equivalent",
+     "id": "ff36af07-6538-fe37-617a-845c22593ca8",
+     "pageId": "ff36af07-6538-fe37-617a-845c22593ca8",
+     "type": "page"
+    },
+    {
+     "title": "Addition",
+     "id": "6ffbde93-f3f8-e1cb-ca58-3feec3ef9c48",
+     "pageId": "6ffbde93-f3f8-e1cb-ca58-3feec3ef9c48",
+     "type": "page"
+    },
+    {
+     "title": "A*(B + C/3)",
+     "id": "294b83b9-3ada-9e9-84f-2eac1831d7e5",
+     "pageId": "294b83b9-3ada-9e9-84f-2eac1831d7e5",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "String expressions",
+   "id": "f7772526-9e69-d156-a288-400799b9b51b",
+   "pageId": "f7772526-9e69-d156-a288-400799b9b51b",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Code equivalent",
+     "id": "3766bf5f-440f-8d18-4309-6aafc3a3bf63",
+     "pageId": "3766bf5f-440f-8d18-4309-6aafc3a3bf63",
+     "type": "page"
+    },
+    {
+     "title": " Joining strings",
+     "id": "abccdbf7-3d65-3bea-cb70-1a9b892a20e",
+     "pageId": "abccdbf7-3d65-3bea-cb70-1a9b892a20e",
+     "type": "page"
+    },
+    {
+     "title": "Joining more strings",
+     "id": "363d20df-28be-7eaf-5467-911c1940816c",
+     "pageId": "363d20df-28be-7eaf-5467-911c1940816c",
+     "type": "page"
+    },
+    {
+     "title": "Strings containing numbers",
+     "id": "abe2d821-1377-2298-72ab-10fee0b0b04c",
+     "pageId": "abe2d821-1377-2298-72ab-10fee0b0b04c",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Fixing errors",
+   "id": "3e8121b2-37ae-8a09-d52f-9a2b3b20522a",
+   "pageId": "3e8121b2-37ae-8a09-d52f-9a2b3b20522a",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Fix challenge 1",
+     "id": "3c16f17c-bbcf-8f61-5559-29b0211ba712",
+     "pageId": "3c16f17c-bbcf-8f61-5559-29b0211ba712",
+     "type": "page"
+    },
+    {
+     "title": "Fix challenge 2",
+     "id": "716b22ac-d1c-5392-d857-d65f52561fee",
+     "pageId": "716b22ac-d1c-5392-d857-d65f52561fee",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Escaping",
+   "id": "558b3be-a72d-245d-3bf4-84d97bbcb754",
+   "pageId": "558b3be-a72d-245d-3bf4-84d97bbcb754",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "e27ec7b9-a5cd-8308-ab0d-31a2ceab9d21",
+     "pageId": "e27ec7b9-a5cd-8308-ab0d-31a2ceab9d21",
+     "type": "page"
+    },
+    {
+     "title": "All done!",
+     "id": "a16e9cec-21d1-d8fa-a0b9-e12fc8691111",
+     "pageId": "a16e9cec-21d1-d8fa-a0b9-e12fc8691111",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
